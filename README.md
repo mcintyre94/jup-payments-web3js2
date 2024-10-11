@@ -6,6 +6,8 @@ Payments uses Jupiter's ExactOut functionality, which means you specify the amou
 
 The effect is that the sender sends the input token, and the recipient receives a precise amount of the output token.
 
+See [Jupiter's documentation](https://station.jup.ag/docs/apis/payments-api) for more information.
+
 ## Setup
 
 1. Copy the `.env.sample` file to `.env` and set the values
